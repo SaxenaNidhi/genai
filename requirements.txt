@@ -5,13 +5,16 @@ langchain-core
 langchain-community
 faiss-cpu
 langchain-google_genai
-pypdf
 langchain_huggingface
 langgraph
 langchain-google-community
 google-api-python-client
 transformers
 sentence-transformers
+datasets
+evaluate
+torch
+optuna
 
 
 
